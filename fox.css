@@ -1,0 +1,147 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.Logo {
+  font-weight: 900;
+}
+.btn-orange {
+  background-color: #fd5f00 !important;
+  border: 3px solid #fd5f00 !important;
+  border-radius: 0px;
+  color: white;
+}
+.bi {
+  color: #fd5f00;
+  width: 40px;
+}
+.nav-link {
+  color: white;
+  padding: 10px;
+}
+.box {
+  padding: 10px !important;
+}
+.navbar {
+  background-color: #0d1128;
+}
+.home {
+  color: #fd5f00;
+  text-decoration: none;
+}
+.box::placeholder {
+  color: white;
+}
+.img {
+  background-image: url(banner.jpg);
+  height: 600px;
+  background-size: cover;
+}
+.img2 {
+  background-color: linear-gradient(45deg, #0d112899, #fd610099),url(image_3.jpg);
+  height: 600px;
+  background-size: cover;
+}
+.content {
+  margin-inline: 100px;
+  font-size: 22px !important;
+  padding-top: 180px;
+}
+.heading {
+  font-size: 60px;
+}
+.box1 {
+  background-color: #fd5f00;
+  height: 300px;
+}
+.box2 {
+  background-color: #0d1128;
+  height: 300px;
+}
+.icon {
+  margin-inline: 45%;
+  font-size: 30px;
+}
+.wrap {
+  background-color: #fd5f00;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 21px;
+}
+.img1 {
+  background: linear-gradient(45deg, #0d112899, #fd610099), url(bg_3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  height: 700px;
+}
+.hh {
+  height: 265px;
+}
+.hed {
+  margin-top: 200px;
+}
+.text-orange {
+  color: #fd5f00;
+}
+.bg-5 {
+  background: linear-gradient(45deg, #0d1128, #fd610099), url(bg_5.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  height: 600px;
+}
+.input1 {
+  background: transparent;
+  border:none;
+  border-bottom: 1px solid white;
+  color: white;
+  margin-bottom: 30px;
+}
+.input1::placeholder{
+  color: white;
+}
+.btn1{
+  height: 60px;
+  width: 1000px;
+}
+.date{
+  background-color: #5d50c6;
+  height: 99px;
+  width: 50px;
+  top: 178px;
+}
+.adm{
+  margin-right: 20px;
+}
+.cor-img{
+  width: 150px !important;
+  height: 150px !important;
+  background-size: cover;
+  background-position: center;
+}
+.cf {
+  padding: 0px !important;
+}
+.footer{
+  width: 80px;
+  height: 80px;
+}
+.borde{
+  background-color: rgba(225, 225, 225, 0.1);
+  padding: 10px;
+}
+.borde::placeholder{
+  color:(225, 225, 225, 0.7);
+  text-align: center;
+}
+.btn-purple{
+  background-color: #5d50c6 !important;
+  border-radius: 0px;
+  width: 200px;
+  padding: 10px;
+  color: white;
+}
